@@ -1,3 +1,2 @@
 # Expositions
-Projet d'expositions d'oeuvres artistiques
-cnhh
+Projet d'expositions d'oeuvres artistiques.
